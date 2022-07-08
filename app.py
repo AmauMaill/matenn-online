@@ -1,3 +1,7 @@
+"""
+Source: https://towardsdatascience.com/how-to-deploy-a-machine-learning-ui-on-heroku-in-5-steps-b8cd3c9208e6
+"""
+
 from fastai.vision.all import load_learner
 import gradio as gr
 
