@@ -1,7 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch 
-torchvision 
-torchaudio
+torch
+--extra-index-url https://download.pytorch.org/whl/cpu
+torchvision
 fastai
 gradio
-Pillow

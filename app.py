@@ -13,4 +13,4 @@ gr.Interface(
     inputs=gr.inputs.Image(type="filepath"),
     outputs=gr.outputs.Label(num_top_classes=2),
     examples=["./data/kanelbullar.jpg", "./data/semlor.jpg"]
-).launch(inbrowser=True)
+).launch()
